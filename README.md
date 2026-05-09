@@ -18,16 +18,7 @@ and LLM-Based Agents](https://github.com/BeckY824/World-Model-with-Autonomous-Ag
 The review poster is on [Overview Poster](https://github.com/BeckY824/World-Model-with-Autonomous-Agent/blob/main/Views-from-different-timespan/IRP_POSTER.pdf).
 
 ---
+## 📅 Project Timeline
 
-## 📌 研究核心 (Research Focus)
-
-- **表征演进：** 研究不同世代的智能体如何定义“智能”，以及其内部表征角色的变化。
-
-- **实践验证：** 通过重建受“Generative Agents”启发的简化场景，进行小规模实验验证。
-
-- **核心追问：** 现代基于语言的智能体是真的构建了内部世界模型，还是仅仅由大规模统计模式驱动？
-
----
-
-## 📅 项目进度 (Timeline)
-论文已完成 ----> 资料整理ing
+### 🔬 Individual Research Project - Supervised by Professor [Enrico Marchioni](https://scholar.google.com/citations?user=6cPUHikAAAAJ&hl=en)
+> **Status:** ✅ Completed  |  **Duration:** Jan 2026 — May 2026
