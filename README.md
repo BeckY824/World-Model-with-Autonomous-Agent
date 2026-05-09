@@ -11,6 +11,12 @@ By analyzing the structural transition across these paradigms, this review highl
 
 本项目深入探讨了智能体架构中世界模型(World Models)的演进，分析了其表征框架如何从早期的显式符号地图转变为现代的潜空间神经动力学，并最终延伸至基于大语言模型（LLM）的智能体。本项目不仅将世界模型视为一种独立理论，更将其作为重新思考智能体进化史的核心视角。
 
+The review paper is on [The Representation Shift of World Models: From
+Explicit Symbolic Maps to Latent Neural Dynamics
+and LLM-Based Agents](https://github.com/BeckY824/World-Model-with-Autonomous-Agent/blob/main/Views-from-different-timespan/IRP_Final_Report.pdf).
+
+The review poster is on [Overview Poster](https://github.com/BeckY824/World-Model-with-Autonomous-Agent/blob/main/Views-from-different-timespan/IRP_POSTER.pdf).
+
 ---
 
 ## 📌 研究核心 (Research Focus)
