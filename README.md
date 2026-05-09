@@ -24,10 +24,23 @@ The review poster is on [Overview Poster](https://github.com/BeckY824/World-Mode
 > **Status:** ✅ Completed  |  **Duration:** Jan 2026 — May 2026
 
 ---
+## 🚀 <b>Further Directions & Plan</b><br>
+Exploring the fundamental mechanisms of how the brain works through interdisciplinary research combining Machine Learning, Neuroscience, and Cognitive Science. Key focus areas include:<br>
+🧠 <b>1. Thinking Module:</b> Modeling reasoning, decision-making, and complex problem-solving processes.<br>
+💾 <b>2. Memory Module:</b> Investigating information encoding, storage, and retrieval mechanisms (e.g., working memory vs. long-term memory).<br>
+👁️ <b>3. Perception & Attention Module:</b> Understanding how sensory inputs are processed and how cognitive resources are allocated.<br>
+🤖 <b>4. Learning & Adaptation Module:</b> Studying neuroplasticity, continuous learning frameworks, and adaptive behaviors.
 
+通过结合机器学习（ML）、神经科学与认知科学的跨学科研究，深入探索大脑的底层工作机制。核心研究模块包括：<br>
+🧠 <b>1. 思考模块 (Thinking Module):</b> 对推理、决策以及复杂问题的解决过程进行系统建模。<br>
+💾 <b>2. 记忆模块 (Memory Module):</b> 研究信息的编码、存储与检索机制（例如工作记忆与长时记忆的交互）。<br>
+👁️ <b>3. 感知与注意力模块 (Perception & Attention Module):</b> 探索大脑如何处理感觉输入以及如何高效分配认知资源。<br>
+🤖 <b>4. 学习与适应模块 (Learning & Adaptation Module):</b> 研究神经可塑性、持续学习框架以及动态适应行为。
+
+---
 ## 💌 Feedback & Support
-If this project has been helpful to you, inspired you, or you simply enjoyed the research, please give me a ⭐️ Star! Your support is my biggest motivation to keep updating.<br>
-如果这个项目对你有所帮助、给你带来了灵感，或者你单纯地喜欢这个研究，欢迎给我点一个 ⭐️ **Star**！你的支持是我持续更新的最大动力。
+If this project has been helpful to you, inspired you, or you simply enjoyed the research, please give me a ⭐️ **Star**! <br>
+如果这个项目对你有所帮助、给你带来了灵感，或者你单纯地喜欢这个研究，欢迎给我点一个 ⭐️ **Star**!
 <div align="center">
   <a href="https://github.com/BeckY824/World-Model-with-Autonomous-Agent/stargazers">
     <img src="https://img.shields.io/github/stars/BeckY824/World-Model-with-Autonomous-Agent?style=for-the-badge&color=fada5e&logo=github&logoColor=black&label=Star%20This%20Project" alt="GitHub stars"/>
