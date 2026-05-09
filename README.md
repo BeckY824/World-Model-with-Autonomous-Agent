@@ -22,3 +22,17 @@ The review poster is on [Overview Poster](https://github.com/BeckY824/World-Mode
 
 ### 🔬 Individual Research Project - Supervised by Professor [Enrico Marchioni](https://scholar.google.com/citations?user=6cPUHikAAAAJ&hl=en)
 > **Status:** ✅ Completed  |  **Duration:** Jan 2026 — May 2026
+
+---
+
+## 💌 Feedback & Support
+If this project has been helpful to you, inspired you, or you simply enjoyed the research, please give me a ⭐️ Star! Your support is my biggest motivation to keep updating.<br>
+如果这个项目对你有所帮助、给你带来了灵感，或者你单纯地喜欢这个研究，欢迎给我点一个 ⭐️ **Star**！你的支持是我持续更新的最大动力。
+<div align="center">
+  <a href="https://github.com/BeckY824/World-Model-with-Autonomous-Agent/stargazers">
+    <img src="https://img.shields.io/github/stars/BeckY824/World-Model-with-Autonomous-Agent?style=for-the-badge&color=fada5e&logo=github&logoColor=black&label=Star%20This%20Project" alt="GitHub stars"/>
+  </a>
+</div>
+<br>
+💡 <b>留言/Issue:</b> 欢迎直接在项目中提交 Issue 或留下你的评论或Email 我。<br>
+Feel free to open an Issue or leave a comment or email me (<a href="mailto:qy1g18@gmail.com">qy1g18@gmail.com</a>) directly in the repository.
